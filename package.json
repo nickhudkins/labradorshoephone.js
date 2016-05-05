@@ -1,0 +1,22 @@
+{
+  "name": "labradorshoephone.js",
+  "version": "1.0.0",
+  "description": "The Next Hot Thing. (after React.js that is.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickhudkins/labradorshoephone.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickhudkins/labradorshoephone.js/issues"
+  },
+  "homepage": "https://github.com/nickhudkins/labradorshoephone.js#readme",
+  "devDependencies": {
+    "jest-cli": "12.0.2"
+  }
+}
