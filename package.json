@@ -18,5 +18,8 @@
   "homepage": "https://github.com/nickhudkins/labradorshoephone.js#readme",
   "devDependencies": {
     "jest-cli": "12.0.2"
+  },
+  "dependencies": {
+    "left-pad": "1.1.0"
   }
 }
