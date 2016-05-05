@@ -8,4 +8,4 @@ Contributing
 
 You must first BELIEVE in labradorshoephone.js to contribute.
 
-For a deeper understanding please watch: https://www.youtube.com/watch?v=6BdSUnPi75U&feature=youtu.be&t=27m36s
+For a deeper understanding please watch: https://www.youtube.com/watch?v=6BdSUnPi75U&feature=youtu.be&t=28m11s
